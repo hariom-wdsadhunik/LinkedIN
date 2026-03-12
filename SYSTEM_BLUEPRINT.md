@@ -560,7 +560,7 @@ apscheduler==3.10.0  # For scheduling
 LINKEDIN_EMAIL=your_email@example.com
 LINKEDIN_PASSWORD=your_password
 LINKEDIN_MFA_SECRET=  # Optional, for TOTP
-TIMEZONE=America/New_York
+TIMEZONE=Asia/Kolkata  # Change to your timezone (e.g., Asia/Kolkata for India)
 MAX_CONNECTIONS_PER_DAY=20
 MAX_POSTS_PER_DAY=2
 LOG_LEVEL=INFO

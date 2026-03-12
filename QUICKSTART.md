@@ -66,7 +66,7 @@ Edit `.env` with your favorite text editor and add your credentials:
 LINKEDIN_EMAIL=your_email@example.com
 LINKEDIN_PASSWORD=your_actual_password_here
 BROWSER_HEADLESS=false  # Keep false for first run
-TIMEZONE=America/New_York  # Change to your timezone
+TIMEZONE=Asia/Kolkata  # Change to your timezone (India)
 ```
 
 ⚠️ **Important**: Never commit `.env` to git!

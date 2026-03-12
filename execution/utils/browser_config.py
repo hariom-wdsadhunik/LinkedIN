@@ -121,8 +121,8 @@ def get_context_options(
         "timezone_id": timezone_id or os.getenv("TIMEZONE", "UTC"),
         "permissions": ["geolocation"],
         "geolocation": {
-            "latitude": 40.7128,  # NYC
-            "longitude": -74.0060
+            "latitude": 28.6139,  # New Delhi, India
+            "longitude": 77.2090
         },
         "color_scheme": "light",
         "accept_downloads": True,

@@ -251,7 +251,7 @@ BROWSER_HEADLESS=true
 
 Set your timezone for scheduling:
 ```env
-TIMEZONE=America/New_York
+TIMEZONE=Asia/Kolkata  # Change to your timezone (e.g., Asia/Kolkata for India)
 ```
 
 ---

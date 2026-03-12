@@ -103,7 +103,7 @@ class LinkedInSession:
             locale="en-US",
             timezone_id=os.getenv("TIMEZONE", "UTC"),
             permissions=["geolocation"],
-            geolocation={"latitude": 40.7128, "longitude": -74.0060}  # NYC
+            geolocation={"latitude": 28.6139, "longitude": 77.2090}  # New Delhi, India
         )
         
         # Add init script to evade detection
