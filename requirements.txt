@@ -1,0 +1,13 @@
+# Python dependencies
+playwright==1.42.0
+python-dotenv==1.0.0
+pydantic==2.6.0
+rich==13.7.0
+apscheduler==3.10.0
+pytz==2024.1
+
+# Optional: For MFA support
+# pyotp==2.9.0
+
+# Optional: For better HTTP handling
+# httpx==0.27.0
